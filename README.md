@@ -1,2 +1,2 @@
 # repo-demo
-Aythor-Ayush Yadav
+Author-Ayush Yadav
